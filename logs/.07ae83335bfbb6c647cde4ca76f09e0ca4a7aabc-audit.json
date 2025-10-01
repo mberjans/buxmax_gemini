@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/Mark/Buxmax/buxmax_gemini/logs/.07ae83335bfbb6c647cde4ca76f09e0ca4a7aabc-audit.json",
+    "files": [
+        {
+            "date": 1759294001815,
+            "name": "/Users/Mark/Buxmax/buxmax_gemini/logs/mcp-puppeteer-2025-09-30.log",
+            "hash": "076d28a6e63e77085d96fcf0b90982268a0c72535f98fafd245c31d17fca2c8b"
+        }
+    ],
+    "hashType": "sha256"
+}
