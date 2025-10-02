@@ -9,6 +9,11 @@
             "date": 1759294001815,
             "name": "/Users/Mark/Buxmax/buxmax_gemini/logs/mcp-puppeteer-2025-09-30.log",
             "hash": "076d28a6e63e77085d96fcf0b90982268a0c72535f98fafd245c31d17fca2c8b"
+        },
+        {
+            "date": 1759364255910,
+            "name": "/Users/Mark/Buxmax/buxmax_gemini/logs/mcp-puppeteer-2025-10-01.log",
+            "hash": "7d1b11cd6a4c8c338b98cebae12eae885a29306a02102a97977f64efd1d79876"
         }
     ],
     "hashType": "sha256"
